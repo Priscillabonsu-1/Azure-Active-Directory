@@ -8,3 +8,4 @@
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/b58e34178152f372d7b7d869d1de68b03424d669/VM-SOC-LAB3.png)
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/6dd5c48f1a1a3623622d85382dcc703412cd84ee/VM-SOC-LAB4.png)
 ![[Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/8067af10c8a925dd4d6682208c92360fa130ac87/Log-Analytics%20workspace.png)
+![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/cf0f4089ddee4b9987df10c4346510e71d85bd40/Microsoft%20sentiniel.png)
