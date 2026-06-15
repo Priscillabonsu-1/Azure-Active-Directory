@@ -10,3 +10,4 @@
 ![[Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/8067af10c8a925dd4d6682208c92360fa130ac87/Log-Analytics%20workspace.png)
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/cf0f4089ddee4b9987df10c4346510e71d85bd40/Microsoft%20sentiniel.png)
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/6f87e9f5c794603080ca52e1e0a82d6453651ca0/Inbound%20security%20rule.png)
+![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/619e9ce38e3e173aed6d87898e6cd491c0cae015/content%20hub.png)
