@@ -13,3 +13,4 @@
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/619e9ce38e3e173aed6d87898e6cd491c0cae015/content%20hub.png)
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/46e9bf839e570f0c425f3095a8cf49abbc2c4d50/Data-collection%20rule.png)
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/c7b051ce06cc6cab348106aaceb544f5f2535002/watch%20list.png)
+![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/c0534f50288f7f0e4686c57714a03b1dce5e253d/watchlist1.png)
