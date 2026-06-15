@@ -11,3 +11,4 @@
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/cf0f4089ddee4b9987df10c4346510e71d85bd40/Microsoft%20sentiniel.png)
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/6f87e9f5c794603080ca52e1e0a82d6453651ca0/Inbound%20security%20rule.png)
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/619e9ce38e3e173aed6d87898e6cd491c0cae015/content%20hub.png)
+![Image Aly](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/46e9bf839e570f0c425f3095a8cf49abbc2c4d50/Data-collection%20rule.png)
