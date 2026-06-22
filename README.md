@@ -4,32 +4,39 @@ I created a virtual network for the purpose of identifying attackers IP Address
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/7f86b5bf22b1a5c56cf5e2374dbe18cbf218ee07/Virtual%20Network.png)
 
 
-This virtual Machine serves as Honey Pot for the purpose to entice cyber attackers for the sahe of my lab
+This virtual Machine serves as Honey Pot for the purpose to entice cyber attackers for the sake of my lab
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/b5a6fae025f1a88e0986effcf810f052cba106b8/VM-SOC-LAB.png)
 
 
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/6927b1edb9ab74a71a10713a3f6ddc54f2c74e30/VM-SOC-LAB1.png)
 
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/81469776e802b4cd7678f9575530c018be9ffa29/VM-SOC-LAB1.png)
+
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/93bdb5968015ce1cdf49e6ee59b273d4e90e2a0b/VM-SOC-LAB2.png)
+
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/b58e34178152f372d7b7d869d1de68b03424d669/VM-SOC-LAB3.png)
 
 
 Virtual Machine finally created
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/6dd5c48f1a1a3623622d85382dcc703412cd84ee/VM-SOC-LAB4.png)
 
+# Log Analytics Workspace created 
 
+Log Analytics workspace which will be connected to sentiniel to recieve logs
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/8067af10c8a925dd4d6682208c92360fa130ac87/Log-Analytics%20workspace.png)
 
 # Microsoft Sentiniel
-I disabled everythinng in Microsoft Defender Firewall to create a vulnerable inernet-facing environment that will attract attackers 
+
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/cf0f4089ddee4b9987df10c4346510e71d85bd40/Microsoft%20sentiniel.png)
 
 
 
 # Inbound Security Rule
+I disabled everythinng in Microsoft Defender Firewall to create a vulnerable inernet-facing environment that will attract attackers 
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/6f87e9f5c794603080ca52e1e0a82d6453651ca0/Inbound%20security%20rule.png)
+
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/619e9ce38e3e173aed6d87898e6cd491c0cae015/content%20hub.png)
+
 
 # Data Collection Rule
 The data collectiom rule was created and basically used by the virtual machine to forward logs into our log Analytics workspace which helps which helps us access it in SIEM
