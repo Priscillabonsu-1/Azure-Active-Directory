@@ -18,16 +18,25 @@ This virtual Machine serves as Honey Pot for the purpose to entice cyber attacke
 Virtual Machine finally created
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/6dd5c48f1a1a3623622d85382dcc703412cd84ee/VM-SOC-LAB4.png)
 
-Created Log Analytics work space
-![[Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/8067af10c8a925dd4d6682208c92360fa130ac87/Log-Analytics%20workspace.png)
+
+![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/8067af10c8a925dd4d6682208c92360fa130ac87/Log-Analytics%20workspace.png)
 
 # Microsoft Sentiniel
 I disabled everythinng in Microsoft Defender Firewall to create a vulnerable inernet-facing environment that will attract attackers 
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/cf0f4089ddee4b9987df10c4346510e71d85bd40/Microsoft%20sentiniel.png)
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/6f87e9f5c794603080ca52e1e0a82d6453651ca0/Inbound%20security%20rule.png)
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/619e9ce38e3e173aed6d87898e6cd491c0cae015/content%20hub.png)
+
+# Data Collection Rule
+The data collectiom rule was created and basically used by the virtual machine to forward logs into our log Analytics workspace which helps which helps us access it in SIEM
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/46e9bf839e570f0c425f3095a8cf49abbc2c4d50/Data-collection%20rule.png)
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/c7b051ce06cc6cab348106aaceb544f5f2535002/watch%20list.png)
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/c0534f50288f7f0e4686c57714a03b1dce5e253d/watchlist1.png)
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/24a1ee0f82eb935b92f42d5228fe9109121d34b9/workbook.png)
+
+
+
+
+# Workbook 
+A display of the attack map in workbook
 ![Image Alt](https://github.com/Priscillabonsu-1/Azure-Active-Directory/blob/b9e5fc123bb5d24b94bc13c22f0dc7f62db631f9/workbook1.png)
